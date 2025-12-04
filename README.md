@@ -1,6 +1,6 @@
-# MSBA 503 – Computer Vision Take-Home Assignment
+# MSBA 503 – Take-Home Assignment
 
-This project compares the performance of two deep learning object detection models — **YOLOv8n** and **Faster R-CNN** — using a set of 10 images. Each model was evaluated on three key metrics:
+This project compares the performance of two deep learning object detection models — **YOLO** and **Faster R-CNN** — using a set of 10 images. Each model was evaluated on three key metrics:
 
 - **Number of objects detected**
 - **Average confidence score**
@@ -36,9 +36,9 @@ In addition to object detection, I extracted the **average RGB color values** fr
 
 ## How to Run the Notebook
 
-1. Upload your own images into a folder  
-2. Update the `image_dir` path in the notebook to point to your image folder  
-3. Run the notebook from top to bottom  
+1. Upload images into a folder  
+2. Update the `image_dir` path in the notebook to point to image folder  
+3. Run the notebook from top to bottom ":)"
 
 ---
 
